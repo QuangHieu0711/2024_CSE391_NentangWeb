@@ -1,0 +1,20 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+  }
+  
+  .flex-container > .block {
+    background-color: #f1f1f1;
+    width: calc(33.33% - 20px); /* 33.33% chiếm 1/3 chiều rộng của flex container, trừ đi margin */
+    text-align: center;
+    margin-bottom: 20px; /* Khoảng cách giữa các ô */
+    margin-right: 20px; /* Khoảng cách bên phải của mỗi ô */
+  }
+  
+  .flex-container > .block:nth-child(3n) {
+    margin-right: 0; /* Đặt margin-right về 0 cho mỗi ô thứ 3 */
+  }
+  
+ 
+  
