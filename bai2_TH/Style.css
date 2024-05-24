@@ -1,0 +1,56 @@
+.Tieude{
+    padding:  10px;
+    color: brown;
+    border: 5px;
+    border-left-style: solid;
+    margin-left: 30px;
+}
+.gift i{
+    color: brown;
+}
+.gift p {
+    display: inline; /* Đặt hiển thị là inline để chúng hiển thị trên cùng một dòng */
+    margin-right: 5px; /* Để tạo khoảng cách giữa biểu tượng và văn bản */
+}
+.box123{
+    display: flex;
+}
+.box456{
+    display: flex;
+}
+.LTVQT img{
+    width: 100%;
+}
+.LTWFS img{
+    width: 100%;
+}
+.LTJ img{
+    width: 100%;
+}
+.LTPHP img{
+    width: 100%;
+}
+.HLTN img{
+    width: 100%;
+}
+.LTCSD img{
+    width: 100%;
+}
+.a1{
+    padding: 30px;
+}
+.a2{
+    padding: 30px;
+}
+.a3{
+    padding: 30px;
+}
+.a4{
+    padding: 30px;
+}
+.a5{
+    padding: 30px;
+}
+.a6{
+    padding: 30px;
+}
