@@ -1,0 +1,57 @@
+.Tieude{
+    color: brown;
+    margin-left :30px;
+    padding: 5px;
+    border: 5px;
+    border-left-style: solid ;
+}
+.gift i{
+    color: brown;
+}
+.gift p {
+    display: inline; /* Đặt hiển thị là inline để chúng hiển thị trên cùng một dòng */
+    margin-right: 6px; /* Để tạo khoảng cách giữa biểu tượng và văn bản */
+}
+.box123 {
+    display: flex;
+}
+.box456 {
+    display: flex;
+}
+
+.item-1 img{
+    width: 100%;
+}
+.item-2 img{
+    width: 100%;
+}
+.item-3 img{
+    width: 100%;
+}
+.item-4 img{
+    width: 100%;
+}
+.item-5 img{
+    width: 100%;
+}
+.item-6 img{
+    width: 100%;
+}
+.item-1{
+    padding: 30px;
+}
+.item-2{
+    padding: 30px;
+}
+.item-3{
+    padding: 30px;
+}
+.item-4{
+    padding: 30px;
+}
+.item-5{
+    padding: 30px;
+}
+.item-6{
+    padding: 30px;
+}
