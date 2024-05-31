@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.Tieude {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 24px;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+ 
+}
+
+.block {
+  background-color: #f1f1f1;
+  width: calc(33.33% - 20px); 
+  padding: 10px;
+}
+
+
+
+.icon {
+  display: flex;
+  flex-direction: column; 
+  
+}
+
+.gift {
+
+  display: flex;
+  align-items: center;
+  color: #c61b1b;
+}
+
+
+
+.box1 img, .box2 img, .box3 img, .box4 img, .box5 img, .box6 img {
+  max-width: 100%;
+  height: auto;
+}
+
+h3 {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+p {
+  font-size: 14px;
+}
